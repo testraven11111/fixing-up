@@ -1,4 +1,5 @@
 import axios from 'axios';
+import './styles.css';
 
 class Lib_movies extends HTMLElement {
     constructor() {
